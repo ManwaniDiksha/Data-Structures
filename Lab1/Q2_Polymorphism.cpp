@@ -1,3 +1,10 @@
+/*
+Demonstrate the concept of polymorphism in C++ using an example of different payment
+methods. Implement functions UPI(), CreditCard(), and NetBanking() to represent different
+payment modes.
+*/
+
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,10 @@
+/*
+Explain the concepts of encapsulation and abstraction in C++ using a Bank Account example.
+Implement functions deposit(), withdraw(), and get_balance() to demonstrate these concepts.
+*/
+
+
+
 #include <iostream>
 using namespace std;
 
